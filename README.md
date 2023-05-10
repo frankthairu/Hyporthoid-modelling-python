@@ -1,5 +1,5 @@
 
-# Hyporthoid modelling
+# Hypothyroid modelling
 
 This project involves building a model that predicts whether or not the patient's symptom indicate whether a patient has hypothyroid or not.
 
